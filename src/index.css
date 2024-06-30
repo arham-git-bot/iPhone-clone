@@ -28,6 +28,12 @@ canvas {
   position: relative;
   max-width: 1120px;
 }
+.screen-max-width1 {
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  position: relative;
+  max-width: 780px;
+}
 
 @layer utilities {
   .flex-center {

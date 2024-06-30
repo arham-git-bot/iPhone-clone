@@ -6,6 +6,7 @@ import HowItWorks from "./components/HowItWorks";
 import Model from "./components/Model";
 import Navbar from "./components/Navbar";
 import Lizard from "./components/Lizard";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Features />
       <HowItWorks />
       <Lizard />
+      <Footer/>
     </main>
   );
 };

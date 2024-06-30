@@ -16,9 +16,10 @@ const App = () => {
       <Highlights />
       <Model />
       <Features />
-      <HowItWorks />
       <Lizard />
-      <Footer/>
+      <HowItWorks />
+
+      <Footer />
     </main>
   );
 };

@@ -16,9 +16,8 @@ const App = () => {
       <Highlights />
       <Model />
       <Features />
-      <Lizard />
       <HowItWorks />
-
+      <Lizard />
       <Footer />
     </main>
   );
